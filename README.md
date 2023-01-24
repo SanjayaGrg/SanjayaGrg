@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sanjaya Kumar Gurung</h1>
 <h3 align="center">A passionate Web Application Developer and Mobile Application Developer from Nepal</h3>
-<img src="https://www.lambdatest.com/resources/images/news24.gif" align="right" width="480" alt="coding"/>
+<img src="https://www.lambdatest.com/resources/images/news24.gif" align="right" width="430" alt="coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayagrg&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayagrg" /> </p>
 
