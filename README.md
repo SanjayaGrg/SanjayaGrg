@@ -14,9 +14,9 @@
 
 - 👀 I’m interested in Web App Development and Mobile App Develpment.
 
-- 🌱 I’m currently learning **MERN and Flutter**.
+- 🌱 I’m currently learning **MERN**.
 
-- 💞️ I’m seeking for a job to experience working environment and to demonstrate the skills that i have learned thorughout the college and internship.
+- 💞️ I’m currently working as React Native Developer in **AusNep IT Sulutions**.
 
 - 📫 How to reach me **sanjaygurun.155@gmail.com**
 
