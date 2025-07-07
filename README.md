@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sanjaya Kumar Gurung</h1>
-<h3 align="center">A passionate Web Application Developer and Mobile Application Developer from Nepal</h3>
+<h3 align="center">A passionate Web Application Developer and Mobile Application Developer.</h3>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" align="right" width="430" height="280" alt="coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayagrg&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayagrg" /> </p>
@@ -20,12 +20,15 @@
 
 - 📫 How to reach me **sanjaygurun.155@gmail.com**
 
+-  Find my projects in the upqork in the below connect links.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanjgrg155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjgrg155" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanjaykumargurung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjaykumargurung" height="30" width="40" /></a>
 <a href="https://instagram.com/sunj_grg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sunj_grg" height="30" width="40" /></a>
 <a href="https://discord.gg/#7875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7875" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01245c5854981b7dd6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/upwork.svg" alt="#7875" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
